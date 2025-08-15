@@ -15,7 +15,7 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 Spellcasting:
 The Cleric table shows how many spell slots you have to cast your cleric spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.
+You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, ==choose a number of cleric spells equal to your Wisdom modifier + your cleric level== (minimum of one spell). The spells must be of a level for which you have spell slots.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
