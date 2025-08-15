@@ -59,3 +59,25 @@ Duration: Instantaneous
 A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st
+
+#Heroism
+1st-level enchantment
+
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, up to 1 minute
+
+A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being frightened and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points from this spell.
+
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+
+#ShieldOfFaith 
+1st-level abjuration
+
+Casting Time: 1 bonus action
+Range: 60 feet
+Components: V, S, M (a small parchment with a bit of holy text written on it)
+Duration: Concentration, up to 10 minutes
+
+A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.

@@ -11,14 +11,16 @@
             "id": "16539ead4bf35845",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Adventures of Antea/Technical/Spells'n'Cantrips/1st level.md",
-                "mode": "source",
-                "source": false
+                "file": "Adventures of Antea/Technical/5E_CharacterSheet_Fillable.pdf",
+                "page": 1,
+                "left": -10,
+                "top": 796,
+                "zoom": 1.4926470588235294
               },
-              "icon": "lucide-file",
-              "title": "1st level"
+              "icon": "lucide-file-text",
+              "title": "5E_CharacterSheet_Fillable"
             }
           }
         ]
@@ -184,12 +186,12 @@
   },
   "active": "16539ead4bf35845",
   "lastOpenFiles": [
-    "README.md",
     "Adventures of Antea/Technical/Reference.md",
-    "Adventures of Antea/Technical/Spells'n'Cantrips/Current list.md",
-    "Adventures of Antea/Technical/Spells'n'Cantrips/1st level.md",
-    "2025-08-15.md",
     "Adventures of Antea/Technical/Spells'n'Cantrips/Cantrips.md",
+    "Adventures of Antea/Technical/Spells'n'Cantrips/1st level.md",
+    "Adventures of Antea/Technical/Spells'n'Cantrips/Current list.md",
+    "README.md",
+    "2025-08-15.md",
     "Adventures of Antea/Things to ask Mecho.md",
     "Adventures of Antea/Technical/Spells'n'Cantrips/Untitled",
     "Adventures of Antea/Technical/Spells'n'Cantrips",

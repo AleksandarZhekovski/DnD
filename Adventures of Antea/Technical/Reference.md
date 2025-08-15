@@ -1,13 +1,13 @@
 # Cleric
 
-|     | Prof | Feat                                      | Cantrips | lvl 1 | lvl 2 |     |
-| --- | ---- | ----------------------------------------- | -------- | ----- | ----- | --- |
-| 1   | +2   | Spellcasting, Divine domain               | 3        | 2     |       |     |
-| 2   | +2   | Chanel Divinity, DDF, Harnes Divine Power | 3        | 3     |       |     |
-| 3   | +2   |                                           | 3        | 4     | 2     |     |
-| 4   | +2   | ASI, Cantrip Versatility                  | 4        | 4     | 3     |     |
-| 5   | +3   | Destroy Undead                            | 4        | 4     | 3     | 2   |
-|     |      |                                           |          |       |       |     |
+|     | Prof | Feat                                            | Cantrips | lvl 1 | lvl 2 |     |
+| --- | ---- | ----------------------------------------------- | -------- | ----- | ----- | --- |
+| 1   | +2   | Spellcasting, Divine domain, Voice of Authority | 3        | 2     |       |     |
+| 2   | +2   | Chanel Divinity, DDF, Harnes Divine Power       | 3        | 3     |       |     |
+| 3   | +2   |                                                 | 3        | 4     | 2     |     |
+| 4   | +2   | ASI, Cantrip Versatility                        | 4        | 4     | 3     |     |
+| 5   | +3   | Destroy Undead                                  | 4        | 4     | 3     | 2   |
+|     |      |                                                 |          |       |       |     |
 
 ASI:
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature

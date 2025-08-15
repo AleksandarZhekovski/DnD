@@ -3,8 +3,12 @@ Cantrips
 #Mending 
 #SpareTheDying 
 
-Spells
+Free spells form DD
 #Command 
+#Heroism 
+
+Spells
 #CreateOrDestroyWater 
 #CureWounds 
 #HealingWord 
+#ShieldOfFaith
