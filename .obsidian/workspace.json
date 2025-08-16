@@ -11,16 +11,14 @@
             "id": "16539ead4bf35845",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Adventures of Antea/Technical/5E_CharacterSheet_Fillable.pdf",
-                "page": 1,
-                "left": -10,
-                "top": 796,
-                "zoom": 1.4926470588235294
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "5E_CharacterSheet_Fillable"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -186,27 +184,28 @@
   },
   "active": "16539ead4bf35845",
   "lastOpenFiles": [
+    "Adventures of Antea/Technical/Spells'n'Cantrips/Current list.md",
+    "Adventures of Antea/Technical/Ralph_Rawfish_CS.pdf",
+    "Adventures of Antea/Technical/Spells'n'Cantrips/1st level.md",
     "Adventures of Antea/Technical/Reference.md",
     "Adventures of Antea/Technical/Spells'n'Cantrips/Cantrips.md",
-    "Adventures of Antea/Technical/Spells'n'Cantrips/1st level.md",
-    "Adventures of Antea/Technical/Spells'n'Cantrips/Current list.md",
+    "Adventures of Antea/Lore/Ralph Rawfish 1.1.md",
+    "Adventures of Antea/Technical/5E_CharacterSheet_Fillable.pdf",
+    "Adventures of Antea/Lore/Iustus, Goddess of  Natural Order.md",
+    "Adventures of Antea/Lore/Setting.md",
     "README.md",
     "2025-08-15.md",
     "Adventures of Antea/Things to ask Mecho.md",
     "Adventures of Antea/Technical/Spells'n'Cantrips/Untitled",
     "Adventures of Antea/Technical/Spells'n'Cantrips",
     "Adventures of Antea/Technical/5E_CharacterSheet_Fillable (1).pdf",
-    "Adventures of Antea/Technical/5E_CharacterSheet_Fillable.pdf",
     "Adventures of Antea/Lagacy/Sheet building.md",
-    "Adventures of Antea/Lore/Setting.md",
     "Adventures of Antea/Technical",
     "Adventures of Antea/Lore",
-    "Adventures of Antea/Lore/Ralph Rawfish 1.1.md",
     "Adventures of Antea/Lore/Map.png",
     "Adventures of Antea/Lagacy/Ralph Rawfish.md",
     "Adventures of Antea/Lagacy/5E_CharacterSheet_Fillable.pdf",
     "Adventures of Antea/Lagacy",
-    "Adventures of Antea/Lore/Iustus, Goddess of  Natural Order.md",
     "Adventures of Antea"
   ]
 }
